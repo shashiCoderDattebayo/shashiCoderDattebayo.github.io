@@ -6,17 +6,17 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Divya Godayal
+title:            Shashikanth Reddy Potu
 tagline:          'Portfolio'
-url:              https://dg.github.io/
+url:              https://shashikanthrp.github.io/
 poemsurl:         /poems/
 
 author:
   name:           'Divya Godayal'
   url:            https://twitter.com/mdo
   gravatar_md5:   2208002d2efae6ba2be8eff453c5b7f9
-  github:         DivyaGodayal
-  linkedin:       divyagodayal
+  github:         shashiCoderDattebayo
+  linkedin:       shashikanthrp
   smule:          __DivyaGodayal__  
   medium:         divyagodayal        
   facebook:       godayaldivya
